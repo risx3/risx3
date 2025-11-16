@@ -1,5 +1,6 @@
 # 👋 Hey, I'm Water Bottle (yes, seriously)
 
+```
                                ,----.
                               ( MEOW! )                         .-.
                                `----' _                         \ \
@@ -19,6 +20,7 @@
       ( .-" \ `.__   | |
        \__)  `.__,'  |__) 
 
+```
 🥤 I drink water  
 💻 I write code that occasionally works  
 🧠 I know GenAI but my neurons lag sometimes  
