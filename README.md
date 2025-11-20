@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Water Bottle (yes, seriously)
+# Hi, I'm Water Bottle (yes, seriously)
 
 ```
                                ,----.
