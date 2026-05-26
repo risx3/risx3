@@ -9,8 +9,8 @@
      |_______|
 
 ```
-🥤 I drink water
-💻 I write code
+🥤 I drink water  
+💻 I write code  
 🧠 I know GenAI  
 
 No serious tech vibes.
