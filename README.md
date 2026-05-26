@@ -9,11 +9,11 @@
      |_______|
 
 ```
-🥤 I drink water  
-💻 I write code that occasionally works  
-🧠 I know GenAI but my neurons lag sometimes  
+🥤 I drink water
+💻 I write code
+🧠 I know GenAI  
 
-No serious tech vibes allowed here.
+No serious tech vibes.
 
 Feel free to explore my half-baked ideas,  
 and projects that started with “what if…” and ended with “why?” 😅
